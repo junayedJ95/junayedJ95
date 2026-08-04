@@ -55,22 +55,11 @@ const junayed = {
 
 ---
 
-### 📊 GitHub Stats
-
-![Junayed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=junayedJ95&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junayedJ95&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
----
 
 ### 🚀 Featured Projects
 
 **SQDIS — Software Quality & Developer Intelligence System**
 > ML-powered platform scoring developer performance and project health. Built with NestJS, FastAPI, PostgreSQL, scikit-learn.
 
-**JRSphere · OfficeTrack**
-> Office management system for small businesses. PHP, MySQL, XAMPP.
-
----
 
 *Open to backend and full-stack opportunities · Bangladesh*
