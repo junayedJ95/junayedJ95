@@ -1,65 +1,66 @@
 # Junayed Hossain
 
-**Backend Developer · Co-founder @ JRSphere · UIU CSE Final Year**
+**Backend & ML Developer** · Co-Founder, JRSphere · Final-Year CSE, United International University
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junayed95-)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/junayed.95)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/junayedJ95)
-portfolio : https://junayedj95.github.io/portfolio-of-junayed/
----
-
-### 👨‍💻 About Me
-
-```typescript
-const junayed = {
-  name      : "Junayed Hossain",
-  university : "United International University (UIU)",
-  degree    : "B.Sc. in Computer Science & Engineering",
-  status    : "Final Year Student",
-  company   : "Co-founder @ JRSphere",
-  focus     : ["Backend Development", "ML Integration", "API Design"],
-  currently : "Building SQDIS — Software Quality & Developer Intelligence System",
-};
-```
+[**View Portfolio**](https://junayedj95.github.io/portfolio-of-junayed/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/junayed95-) &nbsp;·&nbsp; [Facebook](https://www.facebook.com/junayed.95) &nbsp;·&nbsp; [Email](mailto:junayedpsrl@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack
+## About
 
-**Languages**
+Final-year Computer Science & Engineering student based in Dhaka, Bangladesh. I build backend systems and machine learning services, and I lead student software projects at JRSphere from planning to delivery. My research focuses on AI-based web application security.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**Backend & Frameworks**
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+| | |
+|---|---|
+| **Education** | B.Sc. in Computer Science & Engineering, UIU (expected February 2027) |
+| **Role** | Co-Founder & Project Manager, JRSphere |
+| **Focus** | Backend development, ML integration, API design |
+| **Research** | Bi-LSTM based XSS detection (manuscript under review) |
 
 ---
 
+## Technical Skills
 
-### 🚀 Featured Projects
+| Area | Technologies |
+|---|---|
+| Languages | Python, TypeScript, JavaScript, C++, Java |
+| Backend | NestJS, FastAPI, Node.js, Express.js, REST APIs |
+| Frontend | React |
+| Databases | PostgreSQL, MySQL, Prisma ORM, SQL |
+| Machine Learning | scikit-learn, NumPy, classification, anomaly detection |
+| Tools | Docker, Git, GitHub, Firebase Authentication |
 
-**SQDIS — Software Quality & Developer Intelligence System**
-> ML-powered platform scoring developer performance and project health. Built with NestJS, FastAPI, PostgreSQL, scikit-learn.
+---
 
+## Featured Projects
+
+### SQDIS: Software Quality & Developer Intelligence System
+*Backend & ML Engineer · 2025*
+
+A multi-service SaaS platform that analyzes GitHub activity to produce developer and project quality insights.
+
+- Built the **Organizations module** (organization and repository management) with NestJS and TypeScript.
+- Built the **ML service** with FastAPI and Python: commit classification, anomaly detection, sentiment analysis and quality scoring.
+- Handled data preparation and model evaluation; used Docker for local development and GitHub pull requests for collaboration.
+
+**Stack:** NestJS, TypeScript, FastAPI, Python, scikit-learn, PostgreSQL, Docker
+
+### EduPath: Global Study Abroad Guidance Platform
+*Full-Stack Developer · 2025*
+
+A platform that helps students discover universities and scholarship opportunities abroad.
+
+- Worked on frontend and backend features: university selection, professor communication, search and filtering.
+- Contributed to eligibility-based discovery, application tracking and deadline management.
+- Uses PostgreSQL for application data and Firebase Authentication for user login. Currently under development.
+
+**Stack:** React, Node.js, PostgreSQL, Firebase Authentication, Python
+
+### AI-Based XSS Detection (Research)
+Bidirectional LSTM with obfuscation-aware preprocessing, evaluated with accuracy and F1-score and compared against rule-based Web Application Firewalls. Manuscript under review.
+
+---
+
+**Portfolio:** [junayedj95.github.io/portfolio-of-junayed](https://junayedj95.github.io/portfolio-of-junayed/)
 
 *Open to backend and full-stack opportunities · Bangladesh*
